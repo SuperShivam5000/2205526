@@ -1,3 +1,7 @@
+## How To Run:
+Microservice: node index.js           
+SocialMediaFront: npm run dev           
+
 ## API:        
 ![Screenshot 2025-04-02 194245](https://github.com/user-attachments/assets/6a5e787f-c15a-4863-bc3c-26458dd3c3bf)
 ![Screenshot 2025-04-02 194137](https://github.com/user-attachments/assets/bfc78f57-c2cc-406a-a6d5-b8e0041be6d0)
